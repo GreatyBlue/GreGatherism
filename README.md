@@ -46,7 +46,7 @@ Make sure you have the following installed on your system:
 If you want to get the tool from GitHub, you can clone the repository. If you've downloaded the tool directly, skip this step.
 
 ```bash
-git clone https://github.com/gregatherism.git
+git clone https://github.com/GreGatherism.git
 ````
 ## 2. Install requiring tools
 
